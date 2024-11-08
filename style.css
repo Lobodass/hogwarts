@@ -1,0 +1,32 @@
+body {
+    background: color F 4F 4F 4px;
+   
+}
+
+.content{
+    width: 50%;
+}
+
+
+.photo {
+    height: 1000px;
+    width: 1888px;
+    align-items: center; 
+    justify-content: center; 
+    background-image: url("photo/ll.jpg");
+    display: flex;
+    background-size: cover;
+    align-content: center;
+    
+
+}
+
+.text{
+    display: flex;
+    top: 50%;
+    color: rgb(238, 238, 238);
+    position: center;
+    font-size: 160px;
+
+    padding-bottom: 150px;
+}
